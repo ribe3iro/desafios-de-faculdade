@@ -1,9 +1,11 @@
 <?php
 
+// Variáveis
 $notas = $argv;
-$quantidadeNotas = count($notas);
+$quantidadeNotas = $argc;
 $soma = 0;
 
+// Cálculo da média
 for($i=1; $i < $quantidadeNotas; $i++){
     $soma += $notas[$i];
 }
