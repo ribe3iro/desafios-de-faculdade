@@ -8,3 +8,6 @@ Rotina para média aritmética de N nota
 
 ### Tabuada.php
 Rotina que constrói a tabuada de N números
+
+### AreaTrapezio.php
+Cálculo da área de um trapézio, com tratamento de dados inconsistentes
