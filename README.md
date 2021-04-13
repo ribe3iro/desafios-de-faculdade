@@ -4,7 +4,7 @@ Alguns desafios simples de código para manter ativo o estudo de programação e
 ## Desafios
 
 ### Media.php
-Rotina para média aritmética de N nota
+Rotina para média aritmética de N notas
 
 ### Tabuada.php
 Rotina que constrói a tabuada de N números
